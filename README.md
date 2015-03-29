@@ -3,7 +3,7 @@ A flat and responsive design style theme for wordpress.
 
 ## Screenshort
 
-![screenshort](https://github.com/Alex1990/flatlog/blob/master/screenshort.png)
+![screenshort](https://github.com/Alex1990/flatlog/blob/master/screenshot.png)
 
 ## Compatibility
 
